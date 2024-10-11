@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Chrollo</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  
+    <div id="Container">
+      <div id="Title">
+    <h1>Chrollo Lucifer</h1> 
+      </div>
+     <!-- Img is for image and its self ended tag -->
+      
+    <img src="Crollo.jpg" 
+      width="300"
+      height="300"/>
+       
+    
+     <!-- <P> is for paragraph</P> -->
+    <p>Chrollo is calm, intelligent, and charismatic, as he seems to be a born <strong>leader</strong> and able to hold the Troupe together despite the volatile personalities of its members.
+While he is a very capable strategist, Chrollo is also very confident in his own fighting abilities as well as in those of the other members of the Spider. </p>
+    
+    <!-- For the Header -->
+   
+    
+   <!-- Horizontal Line  -->
+  <hr> 
+<!-- (UL stand for unordered List) -->
+    <ul>
+      <!-- List Item -->
+      <li><span id="FirstSpan">Name:</span> Crollo</li>
+      <li><span id="FirstSpan">Age:</span> 26</li>
+      <li><span id="FirstSpan">Height:</span> 178 cm</li>
+      <li><span id="FirstSpan">Also known as:</span> Boss</li>
+    </ul>
+    <!-- <ol> -->
+      <!-- List Item -->
+      <!-- <li>Name: Crollo</li>
+      <li>Age: 26</li>
+      <li>Height: 178 cm</li>
+      <li>Also known as: Boss</li> -->
+    <!-- </ol> -->
+<hr id="second-Line"> 
+
+<p>Chrollo Lucilfer (クロロ゠ルシルフル, Kuroro Rushirufuru) is the founder, leader, and member  of the <a href="https://hunterxhunter.fandom.com/wiki/Phantom_Troupe" target="_blank" > Phantom Troupe </a> </p>
+      </div>
+</body>
+</html>
